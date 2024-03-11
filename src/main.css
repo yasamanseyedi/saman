@@ -1,0 +1,28 @@
+.header{
+    text-align: center;
+    color: white;
+}
+form{
+    text-align: center;
+}
+.backform{
+    background: #bdc3c7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 20px 0px;
+}
+label{
+    margin: 10px 0px;
+    color: white;
+}
+.submit{
+    background-color: blue;
+    color: white;
+    padding:5px 20px;
+    border: none;
+    border-radius: 20px;
+}
+.submit:hover{
+    font-weight: bold;
+    background-color: red;
+}
